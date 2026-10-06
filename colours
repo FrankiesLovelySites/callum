@@ -1,0 +1,21 @@
+while theme:
+{ BL, WH, BL }
+end()
+
+
+theme: (BLSET)
+
+payment()
+  Stripe.leonging: (26426666362846)
+  paymentamount == $$ 23 $$
+  detle: 380
+()
+  9
+
+
+
+
+while paymentpocess is: true:
+()makepayment()$$ 23 $$
+
+end()
